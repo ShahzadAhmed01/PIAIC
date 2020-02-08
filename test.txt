@@ -1,0 +1,2 @@
+It will over write the contents.
+New line is added using r+ mode. mode.
